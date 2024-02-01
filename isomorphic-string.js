@@ -18,4 +18,5 @@ var isIsomorphic = function(s, t) {
 };
 const t = 'paper'
 const s = 'title'
+
 console.log(isIsomorphic(s,t))
