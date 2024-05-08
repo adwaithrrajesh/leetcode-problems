@@ -11,4 +11,5 @@ const object={
     amount3:4000
 }
 const objectSum = findObjectSum(object)
+
 console.log(objectSum);
